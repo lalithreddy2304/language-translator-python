@@ -55,12 +55,7 @@ python language_translator.py
 4. Enter the text to translate.
 5. View or clear translation history whenever needed.
 
-## Future Improvements
 
-- Graphical User Interface (Tkinter)
-- Speech-to-Text
-- Text-to-Speech
-- Support for additional languages
 
 ## Author
 
